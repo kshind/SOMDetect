@@ -1,4 +1,7 @@
-# SOMDetect
+![image](https://github.com/kshind/SOMDetect/assets/114455110/54ff60a9-fc55-4cc3-b8b9-d46370b7508b)# SOMDetect
+# wordlist파일들을 모두 한 폴더 내에 둬야 실행됩니다.
+# exe파일의 경우 추가로 .spec 파일도 같이 둬야지 실행됩니다.
+
 ShellShock + OGNL Injection + Method Not Allowed detect tool
 
 shellshock와 OGNLI와 허용되지 않은 메소드 탐지하는 툴
